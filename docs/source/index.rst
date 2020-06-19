@@ -11,7 +11,7 @@
    :hidden:
    :caption: Saga
 
-   Page1/page1.rst
+   Page1/Page1.rst
  
  .. toctree::
    :maxdepth: 2
