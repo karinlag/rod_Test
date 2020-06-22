@@ -5,7 +5,7 @@
 
    about.rst
    license.rst
-
+   
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -13,14 +13,14 @@
 
    Page1/Page1.rst
  
- .. toctree::
+.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Bioinfo
 
    page3/page2.rst
  
- .. toctree::
+.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: General
