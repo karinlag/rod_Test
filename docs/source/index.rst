@@ -29,3 +29,13 @@
    :caption: General
 
    page3/page3.rst
+
+.. toctree::
+   :maxdepth: 2
+   :glob: 
+   :hidden:
+   :caption: Page4
+
+   page4/page4.rst
+   
+   
