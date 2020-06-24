@@ -8,6 +8,7 @@
    
 .. toctree::
    :maxdepth: 2
+   :glob: 
    :hidden:
    :caption: Saga
 
@@ -15,6 +16,7 @@
  
 .. toctree::
    :maxdepth: 2
+   :glob: 
    :hidden:
    :caption: Bioinfo
 
@@ -22,6 +24,7 @@
  
 .. toctree::
    :maxdepth: 2
+   :glob: 
    :hidden:
    :caption: General
 
