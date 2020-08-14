@@ -5,6 +5,7 @@
 
    about.rst
    license.rst
+   page4/markdown.md
    
 .. toctree::
    :maxdepth: 2
